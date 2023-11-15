@@ -1,0 +1,30 @@
+_repo: In-the-land-of-the-lion-and-sun-or-modern-Persia-b-Being-experiences-of-life-in-Persia-from-1__72128
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wills, C. J. (Charles James)
+    alias: Wills, Charles James
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '41557'
+    url: http://www.gutenberg.org/2009/agents/41557
+description: ''
+gutenberg_issued: '2023-11-14'
+identifiers:
+  gutenberg: '72128'
+language: en
+pgterms:marc904: https://archive.org/details/inlandoflionsun00williala
+pgterms:marc905: 20210417100043willis
+pgterms:marc906: '1891'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bWard, Lock & Co., $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'In the land of the lion and sun, or modern Persia : $b Being experiences of
+  life in Persia from 1866 to 1881'
+url: http://www.gutenberg.org/ebooks/72128
