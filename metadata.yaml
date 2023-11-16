@@ -1,5 +1,8 @@
 _repo: In-the-land-of-the-lion-and-sun-or-modern-Persia-b-Being-experiences-of-life-in-Persia-from-1__72128
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72128-h/images/cover.jpg
 creator:
   author:
     agent_name: Wills, C. J. (Charles James)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41557'
     url: http://www.gutenberg.org/2009/agents/41557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72128#In-the-land-of-the-lion-and-sun-or-modern-Persia-b-Being-experiences-of-life-in-Persia-from-1_
 gutenberg_issued: '2023-11-14'
 identifiers:
   gutenberg: '72128'
